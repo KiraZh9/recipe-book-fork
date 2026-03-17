@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- beet root
+- beet roots
 - carrots
 - potatoes
 
